@@ -1,0 +1,12 @@
+new repository
+get init
+git add .
+git commit -m "first commit"
+git branch -M main (default)
+git remote add origin (link git)
+git push -u origin main
+
+sửa thay đổi
+git add .
+git commit -m "ten"
+git push
